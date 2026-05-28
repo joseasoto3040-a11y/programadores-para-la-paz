@@ -1,0 +1,8 @@
+Ruta principal:
+Al entrar a http://localhost:3000 el servidor responde con el mensaje “Servidor activo”.
+
+Ruta saludo:
+Al entrar a http://localhost:3000/saludo el servidor muestra el mensaje “Hola comunidad”.
+
+Ruta mensaje:
+Al entrar a http://localhost:3000/mensaje/juan el servidor responde con el mensaje “Hola juan” utilizando el parámetro enviado en la URL.
